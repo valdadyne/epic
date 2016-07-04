@@ -1,11 +1,10 @@
 @import 'https://fonts.googleapis.com/css?family=Rakkas|Rasa';
-
 form{width:400px;background-color: #111;color: #FFF;}
 label{
   display: inline-block;
   width: 150px;
   text-align: right;}
-p{font-family: 'Rasa',serif;font-size:16px;}
+p{font-family: 'Rasa',serif;}
 .wrapper{
   margin:0;padding: 0;
   width:100%;
